@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+#divPadre {
+    height:100px;
+    width:800px;
+    text-align:center;
+    color: blanchedalmond;
+    
+}
+#divHijo {
+    height:50px;
+    width:400px;
+    margin:0px auto;
+    background-color:peru;
+}
+
+#resultado {
+    height:50px;
+    width:400px;
+    margin:0px auto;
+    background-color:lightslategray;
+}

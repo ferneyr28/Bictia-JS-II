@@ -33,7 +33,7 @@ divisor.addEventListener("click", ()=>{
 
 
 
-let sumar    = (a,b) =>  a + b;
+let sumar    = (a,b) =>  parseFloat(a) + parseFloat(b);
 let restar   = (a,b) =>  a - b;
 let mult     = (a,b) =>  a * b;
 let dividir  = (a,b) =>  a / b;

@@ -16,7 +16,7 @@ menos.addEventListener("click", ()=>{
 mas.addEventListener("click", ()=>{
     let numero1 = document.getElementById("num1").value;
     let numero2 = document.getElementById("num2").value;
-    final.innerText = mas(numero1, numero2);
+    final.innerText = sumar(numero1, numero2);
 })
 
 por.addEventListener("click", ()=>{
